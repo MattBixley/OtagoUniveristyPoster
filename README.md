@@ -5,7 +5,7 @@ Using Brent Thornes Base Posters and converting to Otago University fonts, logos
 https://github.com/brentthorne/posterdown
 
 ## Install
-To install the package and template for the posters use devtools::install_github("brentthorne/posterdown") 
+To install the package and template for the posters use 'devtools::install_github("brentthorne/posterdown")' 
 
 Full instructions are at Brent's github repo including all the options for changing font size and other settings.
 
