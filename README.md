@@ -28,12 +28,12 @@ University logo: http://www.otago.ac.nz/ou-logo.png
 Colours:
 https://www.otago.ac.nz/webservices/guides/designers/styles/otago049840.html
 
-Otago Blue: #00508F
-Links: #416EBF
-Light blue: #F1F4F8
-Body text: #333333
-Grey: #DDDDDD
-Light grey: #F5F5F5
-Otago Yellow: #F9C000
+Otago Blue: #00508F  
+Links: #416EBF  
+Light blue: #F1F4F8  
+Body text: #333333  
+Grey: #DDDDDD  
+Light grey: #F5F5F5  
+Otago Yellow: #F9C000  
 
 
