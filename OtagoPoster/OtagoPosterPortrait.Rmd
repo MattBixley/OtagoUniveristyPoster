@@ -14,7 +14,7 @@ author: "Matt Bixley^1^ Author Two^2^"
 affiliation: "^1^Department of Biochemistry, University of Otago; ^2^Deparment of Another Institution, Institution University"
 #STYLE & FORMATTING
 titlebox_bgcol: "00508F"  #Colour of the Title Box background
-titlebox_bordercol: "f9c013" #Colour of the title Box border.
+titlebox_bordercol: "F9C000" #Colour of the title Box border.
 titlebox_shape: "all"
 titlebox_borderwidth: "0.25cm"
 title_textcol: "ffffff" #colour of title text
@@ -44,7 +44,7 @@ columnline_width: "0pt" #width of line between each column
 #SECTION TITLE STYLING
 sectitle_textcol: "ffffff" # Colour of the poster section titles
 sectitle_bgcol: "00508F" # Colour of the section title box
-sectitle_bordercol: "f9c013" # Colour of the border around the section title box.
+sectitle_bordercol: "F9C000" # Colour of the border around the section title box.
 sectitle_borderwidth: "1mm" # Thicknes of the section title box border
 sectitle_boxshape: "uphill" # Changes the shape of the section title box.
 
