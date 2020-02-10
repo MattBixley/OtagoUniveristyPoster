@@ -72,11 +72,11 @@ ENJOY! XD
 
 # Introduction
 
-Welcome to `posterdown` ! This is my attempt to provide a semi-smooth workflow for those who wish to take their `RMarkdown` skills to the conference world. Many creature comforts from `RMarkdown` are available in this package such as `Markdown` section notation, figure captioning, and even citations like this one [@holden_identifying_2012] The rest of this example poster will show how you can insert typical conference poster features into your own document. 
+Welcome to `posterdown` ! This is my attempt to provide a semi-smooth workflow for those who wish to take their `RMarkdown` skills to the conference world. Many creature comforts from `RMarkdown` are available in this package such as `Markdown` section notation, figure captioning, and even citations like this one `citation` The rest of this example poster will show how you can insert typical conference poster features into your own document. 
 
 # Study Site
 
-Here is a map made to show the study site using `ggplot2`, `ggspatial`, and `sf` and you can even reference this with a hyperlink, this will take you to **Figure \ref{mymapfig}**. Lorem ipsum dolor sit amet, [@middleton_geological_nodate] consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Here is a map made to show the study site using `ggplot2`, `ggspatial`, and `sf` and you can even reference this with a hyperlink, this will take you to **Figure**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 \vspace{1cm}
 
 ```{r, out.width="50%", fig.cap='This is a map of Canada, the ggspatial package is great for GIS folks in R! \\label{mymapfig}', cache=TRUE}
@@ -169,4 +169,4 @@ There is still **A LOT** of work to do on this package which include (but are no
 - Include References section only if initiated by the user like in RMarkdown.
 
 <!--- Here you can set the size of the citation text as well as remove the "References" section if you choose not to have one for some reason :) -->
-\small\printbibliography
+
